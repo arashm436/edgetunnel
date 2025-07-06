@@ -10,7 +10,7 @@
 
 import { connect } from 'cloudflare:sockets';
 // یویوآیدی را تنظیم کنید
-let userID = '0a1a8bfe-65ac-4183-a521-99bd2fbe05db';
+let userID = '2f343a28-6d08-48a7-b707-83011408ee0a';
 //This is now a default ProxyIP system - you can change it but be careful!
 const พร็อกซีไอพีs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou'];
 //ProxyIPs INF: Better to set a IpTamiz for 15th line!
